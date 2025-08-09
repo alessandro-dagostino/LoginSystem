@@ -35,5 +35,7 @@ The code is designed to be simple and straightforward, making it easy for beginn
 The program is a practical example of how to implement basic user authentication in a console application.
 
 The code is structured to be clear and maintainable, following C# conventions and best practices for readability and organization.
+
 The program serves as a foundation for building more complex authentication systems in the future.
+
 The code is a good exercise for understanding control flow, user input handling, and method usage in C# console applications.
