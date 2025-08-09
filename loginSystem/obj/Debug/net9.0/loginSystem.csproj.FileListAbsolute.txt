@@ -1,0 +1,14 @@
+/home/alessandro/loginSystem/bin/Debug/net9.0/loginSystem
+/home/alessandro/loginSystem/bin/Debug/net9.0/loginSystem.deps.json
+/home/alessandro/loginSystem/bin/Debug/net9.0/loginSystem.runtimeconfig.json
+/home/alessandro/loginSystem/bin/Debug/net9.0/loginSystem.dll
+/home/alessandro/loginSystem/bin/Debug/net9.0/loginSystem.pdb
+/home/alessandro/loginSystem/obj/Debug/net9.0/loginSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/alessandro/loginSystem/obj/Debug/net9.0/loginSystem.AssemblyInfoInputs.cache
+/home/alessandro/loginSystem/obj/Debug/net9.0/loginSystem.AssemblyInfo.cs
+/home/alessandro/loginSystem/obj/Debug/net9.0/loginSystem.csproj.CoreCompileInputs.cache
+/home/alessandro/loginSystem/obj/Debug/net9.0/loginSystem.dll
+/home/alessandro/loginSystem/obj/Debug/net9.0/refint/loginSystem.dll
+/home/alessandro/loginSystem/obj/Debug/net9.0/loginSystem.pdb
+/home/alessandro/loginSystem/obj/Debug/net9.0/loginSystem.genruntimeconfig.cache
+/home/alessandro/loginSystem/obj/Debug/net9.0/ref/loginSystem.dll
